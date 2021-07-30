@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  duration_in_seconds: 1
+  user: one
+  live: one
+
+two:
+  duration_in_seconds: 1
+  user: two
+  live: two
